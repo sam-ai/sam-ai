@@ -18,7 +18,10 @@
     <img src="https://komarev.com/ghpvc/?username=sam-ai&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-  Hello AI/ML practitioner
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div id="title" align="center">
+  <h1>
+    Hello AI/ML practitioner
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+  
