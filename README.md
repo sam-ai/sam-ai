@@ -3,13 +3,13 @@
 </div>
 
  <div id="badges" align="center">
-        <a href="your-linkedin-URL">
+        <a href="https://www.linkedin.com/in/sambit-sekhar-ai/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="your-youtube-URL">
+<!--         <a href="your-youtube-URL">
           <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-        </a>
-        <a href="your-twitter-URL">
+        </a> -->
+        <a href="https://twitter.com/sambit_ai">
           <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
 </div>
@@ -34,11 +34,11 @@
 I am a Full Stack Machine Learning Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and Machine Learning Engineer contributing in building end to end ML products.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Large Language Model, MoE, Lora, Stable diffusion and scaling LM.
 
-- :zap: In my free time, I solve problems on Kaggle and read tech articles.
+- :zap: In my free time, I solve real-time projects with AI.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sambit-sekhar-ai/)
 
 ---
 
